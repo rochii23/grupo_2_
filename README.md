@@ -23,7 +23,6 @@ colores pensados:
 
 
 
-
 Enlaces:
 
 Pags de referencias:
@@ -42,3 +41,5 @@ https://passionaria.com.mx/
 
 
 Wireframe: https://lucid.app/lucidchart/32c25d29-962c-458b-9d4d-71f74aaebbfe/edit?viewport_loc=-622%2C-14%2C3872%2C1765%2CWe.quooCqrTf&invitationId=inv_b8da0de7-ffcd-45b3-9a54-057d9a82390e
+
+Carrito de compras: https://lucid.app/lucidspark/eb2931fb-c575-434f-a4fa-3299d663038c/edit?beaconFlowId=FAFDE5371776C085&invitationId=inv_5d049112-e9a6-49f1-84f9-4b00f77b7e46#
